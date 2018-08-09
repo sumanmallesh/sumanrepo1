@@ -1,6 +1,0 @@
-this is my line
-<<<<<<< HEAD
-hai lbxuvxi
-=======
-hai 123456
->>>>>>> eabdd49840b9795e4307b8b7f971ce34f373c931
